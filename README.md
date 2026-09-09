@@ -2,7 +2,7 @@
 
 A small, static introduction to Snowtrail for sharing on LinkedIn.
 
-Public URL: https://ssisyphustao.github.io/snowtrail-preview/
+Public URL: https://ssisyphustao.github.io/snowtrail/
 
 The HTML, Open Graph image, and favicon are served by GitHub Pages. Browsers immediately redirect to the original Cloudflare-hosted experience using `window.location.replace`. The Open Snowtrail button remains available when JavaScript is disabled. Crawlers that do not execute JavaScript can read the static share metadata; LinkedIn compatibility must be verified separately.
 
